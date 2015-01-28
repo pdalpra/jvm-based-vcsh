@@ -1,3 +1,10 @@
 *
 !/.gitignore.d
 !/.gitignore.d/jvm-based
+
+# SBT global config
+!/.sbt
+!/.sbt/0.13
+!/.sbt/0.13/*
+!/.sbt/0.13/plugins
+!/.sbt/0.13/plugins/*
