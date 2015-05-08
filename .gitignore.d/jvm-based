@@ -8,3 +8,7 @@
 !/.sbt/0.13/*
 !/.sbt/0.13/plugins
 !/.sbt/0.13/plugins/*
+
+# Gradle global config
+!/.gradle
+!/.gradle/gradle.properties
