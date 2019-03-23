@@ -4,10 +4,11 @@
 
 # SBT global config
 !/.sbt
-!/.sbt/0.13
-!/.sbt/0.13/*
-!/.sbt/0.13/plugins
-!/.sbt/0.13/plugins/*
+!/.sbt/1.0
+!/.sbt/1.0/*
+!/.sbt/1.0/plugins
+!/.sbt/1.0/plugins/*
+/.sbt/1.0/plugins/idea.sbt
 
 # Gradle global config
 !/.gradle
