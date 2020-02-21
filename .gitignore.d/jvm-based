@@ -8,7 +8,7 @@
 !/.sbt/1.0/*
 !/.sbt/1.0/plugins
 !/.sbt/1.0/plugins/*
-/.sbt/1.0/plugins/idea.sbt
+/.sbt/1.0/plugins/metals.sbt
 
 # Gradle global config
 !/.gradle
